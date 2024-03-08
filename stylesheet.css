@@ -1,5 +1,9 @@
 * {
     font-family:Georgia, 'Verdana', Times, serif;
+    text-align:center;
+    padding:5px;
+    margin:5px;
+    background-color:beige;
 }
 
 
@@ -10,4 +14,15 @@ p {
 
 h1 {
     font-family:Verdana, sans-serif;
+}
+
+li{
+    display:inline;
+}
+
+nav{
+    border-style: solid;
+    border-color: 000000;
+    width:fit-content;
+    display: inline-block;
 }
